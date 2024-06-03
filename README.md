@@ -3,4 +3,4 @@
 This repository is for managing STEMCraft in ways that fulfill both of the requirements:
 
   - Required for some task done in STEMCraft (Build and GitHub Actions).
-  - Don't fit the repository (Not Java or not Minecraft related.).
+  - Don't fit the repositories that already exist for STEMCraft (Not Java or not Minecraft related).
